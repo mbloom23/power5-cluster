@@ -1,0 +1,69 @@
+Name,Longitude,Latitude,Conference,# of NFL Players,Home City Population (Thousands),GRAD_RATE_2011_SA,Student Population
+Boston College,-71.1685,42.3355,ACC,241,684,82,14720
+Clemson University,-82.8369,34.6738,ACC,263,16,72,24951
+Duke University,-78.9382,36.0014,ACC,133,269,90,16606
+Florida State University,-84.2985,30.4419,ACC,320,191,51,41005
+Georgia Tech,-84.3963,33.7756,ACC,195,488,74,32723
+North Carolina State University,-79.0193,35.7596,ACC,194,464,64,35479
+Syracuse,-76.1351,43.0392,ACC,269,143,70,22803
+University of Louisville,-85.7585,38.2123,ACC,175,617,74,21430
+University of Miami,-80.2746,25.7179,ACC,379,454,53,17331
+"University of North Carolina, Chapel Hill",-79.0469,35.9049,ACC,257,60,70,30011
+University of Pittsburgh,-79.9608,40.4444,ACC,344,302,66,28673
+University of Virginia,-78.508,38.0336,ACC,199,47,73,24639
+Virginia Tech,-80.4234,37.2284,ACC,170,44,64,34683
+Wake Forest,-80.2792,36.1355,ACC,147,42,70,8401
+Baylor,-97.1131,31.5489,Big 12,239,138,76,17217
+Iowa State,-93.6465,42.0267,Big 12,125,66,74,34992
+Kansas State,-96.5847,39.1974,Big 12,188,55,71,22221
+Oklahoma State,-97.0737,36.127,Big 12,209,50,51,24690
+Texas Christian University,-97.3636,32.7096,Big 12,204,874,60,10918
+Texas Tech,-101.8783,33.5843,Big 12,159,253,65,38209
+University of Kansas,-95.2558,38.9543,Big 12,169,96,62,27690
+University of Oklahoma,-97.4457,35.2059,Big 12,384,122,61,28564
+University of Texas at Austin,-97.7341,30.2849,Big 12,346,950,68,51832
+West Virginia University,-79.9697,39.648,Big 12,224,31,65,26864
+"Indiana University, Bloomington",-86.5126,39.1754,Big Ten,216,84,73,43503
+Michigan State,-84.4822,42.7018,Big Ten,335,117,80,50351
+Northwestern,-87.6746,42.056,Big Ten,203,74,87,22127
+Penn State,-77.8599,40.7982,Big Ten,410,42,82,46810
+Purdue University,-86.9212,40.4237,Big Ten,293,48,79,44474
+Rutgers,-74.4474,40.5008,Big Ten,130,55,65,50254
+The Ohio State University,-83.0305,40.0067,Big Ten,499,878,75,61170
+University of Illinois Urbana-Champaign,-88.2272,40.102,Big Ten,297,87,81,49702
+University of Iowa,-91.555,41.6627,Big Ten,309,74,74,31656
+"University of Maryland, College Park",-76.9426,38.9869,Big Ten,237,31,71,41200
+University of Michigan,-83.7382,42.278,Big Ten,415,120,76,46716
+University of Minnesota,-93.2277,44.974,Big Ten,270,420,87,50734
+"University of Nebraska, Lincoln",-96.7005,40.8202,Big Ten,384,283,69,25820
+University of Wisconsin-Madison,-89.4125,43.0766,Big Ten,348,255,73,43463
+Brigham Young University,-111.6493,40.2518,Independent,172,116,62,33517
+U.S. Military Academy,-73.9625,41.3918,Independent,36,6,,4389
+"University of Massachusetts, Amherst",-72.5301,42.3868,Independent,45,37,68,28635
+University of Notre Dame,-86.239,41.703,Independent,599,102,92,8624
+Arizona State,-111.0937,34.0489,Pac 12,296,1633,56,51585
+Oregon State,-123.2794,44.5638,Pac 12,184,58,47,30986
+Stanford,-122.1697,37.4275,Pac 12,287,141,96,17381
+University of Arizona,-110.9501,32.2319,Pac 12,196,541,60,44097
+"University of California, Berkeley",-122.2585,37.8719,Pac 12,273,121,79,42501
+"University of California, Los Angeles",-118.4452,34.0689,Pac 12,351,3967,79,44537
+"University of Colorado, Boulder",-105.2659,40.0076,Pac 12,255,106,63,36681
+University of Oregon,-123.0726,44.0448,Pac 12,267,168,66,22644
+University of Southern California,-118.2851,34.0224,Pac 12,527,3967,84,47310
+University of Utah,-111.8421,40.7649,Pac 12,207,197,67,33023
+University of Washington,-122.3035,47.6553,Pac 12,323,724,76,47400
+Washington State,-120.7401,47.7511,Pac 12,196,33,56,31478
+Auburn,-85.4952,32.5934,SEC,317,64,63,30440
+Louisiana State University,-91.18,30.4133,SEC,389,224,49,30983
+Mississippi State University,-88.7944,33.4552,SEC,219,25,62,21974
+Texas A&M,-96.3365,30.6188,SEC,327,113,66,68679
+University of Alabama,-87.5391,33.214,SEC,388,99,65,38390
+University of Arkansas,-94.1748,36.0687,SEC,270,85,56,27778
+University of Florida,-82.3549,29.6436,SEC,366,132,63,52218
+University of Georgia,-83.3773,33.948,SEC,363,664,66,38652
+University of Kentucky,-84.504,38.0307,SEC,186,300,70,29182
+University of Mississippi,-89.538,34.3662,SEC,260,26,66,22456
+"University of Missouri, Columbia",-92.3277,38.9404,SEC,228,121,65,29843
+University of South Carolina,-81.0299,33.9938,SEC,212,133,64,34795
+"University of Tennessee, Knoxville",-83.9295,35.9544,SEC,362,186,61,28894
+Vanderbilt,-86.8027,36.1447,SEC,130,692,77,12824
