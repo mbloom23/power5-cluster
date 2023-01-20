@@ -1,1 +1,3 @@
 # power5-cluster
+
+This project uses `sklearn` clustering modules to implement clustering (k-means and hierarchical clustering were examined) for the schools in the Power Five football conferences. The goal was to attempt to find a clustering algorithm that would correctly group together the schools into the ground truth conferences based on a variety of data. Then, a new grouping of the schools was created based on data chosen by the project group. The presentation and report detail the methods and results of the project. The `maindata.csv` file contains all the data that was later loaded by the Jupyter notebook. The Power 5 schools' financial data was sourced from [this repository](https://github.com/washingtonpost/data-ncaa-power-five-school-financials).
